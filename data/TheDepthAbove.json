@@ -1,0 +1,23 @@
+{
+    "id": 112371654,
+    "name": "The Depths Above",
+    "author": "Bram4Real",
+    "creators": ["Bram4Real"],
+    "verifier": "Bram4Real",
+    "verification": "https://youtu.be/gba7-ej0Twc",
+    "percentToQualify": "70",
+    "password": "free to copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
